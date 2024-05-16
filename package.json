@@ -46,8 +46,8 @@
     "lint": "npx eslint --ext .tsx,.ts src/"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "18.3.0",
+    "react-dom": "18.3.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
@@ -67,8 +67,8 @@
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "prettier": "2.8.8",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "18.3.0",
+    "react-dom": "18.3.0",
     "react-scripts": "5.0.1",
     "serverless": "3.32.2",
     "serverless-cloudfront-invalidate": "1.12.2",
